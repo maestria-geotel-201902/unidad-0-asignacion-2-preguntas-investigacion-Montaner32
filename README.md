@@ -11,12 +11,12 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* ¿Cuál ha sido la variación ambiental y de vegetación por año?
 
-* ...
+* ¿Cuál ha sido la producción de banano para los años 2010 a 2018?
 
-* ...
+* ¿Existe una relación entre el índice de vegetación y la producción de banano?
 
-* ...
+* ¿Existe una relación entre las variables ambientales y la producción de banano?
 
-* ...
+* ¿Cuál sería el valor esperado de producción de banano partiendo de las variables de vegetación y climática para el año 2019?
